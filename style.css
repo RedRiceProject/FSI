@@ -3,14 +3,13 @@
 
 h1,h2,h3,h4 {
   font-family: Oswald;
-  font-size: 20;\
+  font-size: 20;
   }
 p {
   font-family: Open Sans;
   font-size: 12;
   }
 .header {
-	background-color: white;
 	background-image: url("images/rat.png");
 	background-position: right center;
 	background-
