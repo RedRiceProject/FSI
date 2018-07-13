@@ -9,7 +9,15 @@ p {
   font-family: Open Sans;
   font-size: 12;
   }
-.header {
+header {
+	padding: 50px 175px;
+	background-color: white;
+	color: #303030;
+}
+header img {
+	background-color: transparent;
+	padding: 15px;
+.FsiHeader {
 	background-image: url("images/rat.png");
 	background-position: right center;
 	background-
