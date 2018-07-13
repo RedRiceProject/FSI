@@ -11,15 +11,11 @@ p {
   }
 header {
 	padding: 50px 175px;
+	background-image: url("images/rat.png");
 	background-color: #303030;
+	background-position: right center;
+	background-size: cover;
 }
 header img {
 	background-color: transparent;
 	padding: 15px;
-.FsiHeader {
-	background-image: url("images/rat.png");
-	background-position: right center;
-	background-
-	color: #303030;
-	background-size: cover;
-}
