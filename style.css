@@ -11,10 +11,10 @@ p {
   }
 header {
 	padding: 50px 175px;
-	background-image: url("images/rat.png");
+	background-image: url("images/doxorubicin.png");
 	background-color: #303030;
 	background-position: right center;
-	background-size: 100% 100%;
+	background-size: cover;
 	background-repeat: no-repeat;
 
 }
