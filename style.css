@@ -16,8 +16,16 @@ header {
 	background-position: right center;
 	background-size: cover;
 	background-repeat: no-repeat;
-
-}
+	}
 header img {
 	background-color: transparent;
 	padding: 15px;
+	}
+footer {
+	padding: 50px 175px;
+	background-image: url("images/creatine.png");
+	background-color: white;
+	background-position: right center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	}
