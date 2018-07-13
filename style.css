@@ -12,7 +12,7 @@ p {
 header {
 	padding: 50px 175px;
 	background-image: url("images/doxorubicin.png");
-	background-color: #303030;
+	background-color: white;
 	background-position: right center;
 	background-size: cover;
 	background-repeat: no-repeat;
