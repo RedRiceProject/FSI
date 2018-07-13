@@ -14,7 +14,9 @@ header {
 	background-image: url("images/rat.png");
 	background-color: #303030;
 	background-position: right center;
-	background-size: cover;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
 }
 header img {
 	background-color: transparent;
